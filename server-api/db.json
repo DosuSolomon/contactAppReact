@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "f23a2644-b17e-419e-99ad-3fa38fe15051",
+      "name": "BeezlengIdiot",
+      "email": "beezleng@mail.com"
+    },
+    {
+      "id": "e3f240f9-9a8e-422c-8652-7d55d3743963",
+      "name": "Solomon",
+      "email": "solomon001@gmail.com"
+    },
+    {
+      "id": "a3522fb3-1399-47ec-ba79-f3caf7760e09",
+      "name": "Sunday",
+      "email": "dosusulaimon.s@gmail.com"
+    },
+    {
+      "id": "c130595a-241f-47d5-b817-1274e8a30df3",
+      "name": "Babatunde",
+      "email": "adekusibe@gmail.com"
+    },
+    {
+      "id": "2e2ed475-4aa0-4ae5-a64d-911edf507bac",
+      "name": "Comfort",
+      "email": "comfort@gmail.com"
+    }
+  ]
+}
